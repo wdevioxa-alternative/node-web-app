@@ -1,7 +1,7 @@
 
 # Установка docker контейнера для node-web-app
 - Читать [`документацию`](https://nodejs.org/ru/docs/guides/nodejs-docker-webapp).
-- Скачать уже готовый docker [`tar`](https://wdevioxa.org/files/node-web-app.tar) или [`tar.zip`](https://wdevioxa.org/files/node-web-app.tar.zip) образ.
+- Скачать уже готовый docker [`tar`](https://wdevioxa.org/downloads/node-web-app.tar) или [`tar.zip`](https://wdevioxa.org/downloads/node-web-app.tar.zip) образ.
 
 ## Введение
 Docker - это открытая платформа для разработки, доставки и запуска приложений. Docker позволяет вам отделять ваши приложения от инфраструктуры, чтобы вы могли быстро доставлять программное обеспечение
